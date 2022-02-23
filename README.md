@@ -1,7 +1,7 @@
 Prior to get output data using input text , I have tested by code using dataset websiteData.txt. We read websiteData.txt as a test file as:
 with open('input.txt') as f:
     lines = f.readlines()
-    
+   
 and we get output as
 {
     "Jobs@linkedin.com": {
@@ -32,5 +32,5 @@ and we get output as
         "occurance": 1,
         "EmailType": "Non-Human"
     }
-}
+}.
 After this we can read given input data and can predict the output which is saved in result.json file.
