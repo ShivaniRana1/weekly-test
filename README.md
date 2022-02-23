@@ -1,5 +1,5 @@
 Prior to get output data using input text , I have tested by code using dataset websiteData.txt. We read websiteData.txt as a test file as:
-with open('input.txt') as f:
+with open('websiteData.txt') as f:
     lines = f.readlines()
    
 and we get output as
