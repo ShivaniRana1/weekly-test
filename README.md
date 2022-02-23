@@ -33,4 +33,4 @@ and we get output as
         "EmailType": "Non-Human"
     }
 }.
-After this we can read given input data and can predict the output which is saved in result.json file.
+After this we can read given input data and can get the output which is saved in result.json file.
